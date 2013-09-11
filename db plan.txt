@@ -1,0 +1,6 @@
+2 tables, CHARACTER and PAGE
+
+CHARACTER ( _cid_, cname)
+PAGE (_number_)
+
+Relation between the 2 tables is (n,m)
